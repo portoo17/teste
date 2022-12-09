@@ -22,4 +22,4 @@
 </BODY>
 </HTML>
 - realizar o merge da branch feature1 com a branch main;
-- resolver os conflitos apresentados.
+- resolver os conflitos apresentados..
